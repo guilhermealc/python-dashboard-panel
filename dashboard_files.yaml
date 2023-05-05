@@ -1,3 +1,5 @@
 dashboard-paths:
   - file_path: /Interactive_dashboard.ipynb
     name: Interactive_Dashboard
+  - file_path: /Interactive_dashboard2.ipynb
+    name: Interactive_Dashboard2
